@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&color=a840ff&height=120&section=header&text=Hello%20&fontSize=90&animation=fadeIn" />
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
