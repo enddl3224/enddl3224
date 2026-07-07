@@ -1,7 +1,7 @@
 # 👋 Hi, I'm MinJi(MJ), from Korea
 Welcome to my page:)<br><br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
-I'm studying the C language thesedays! (2026.07~)<br>
+I'm studying the C language! (2026.07~)<br>
 <br>
 <br>
 ## Languages and Tools
